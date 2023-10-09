@@ -6,7 +6,7 @@ implementation of a zero knowledge virtual machine
   - FRI
   - variant
   - fiat-shamir
-- computation
+- compulation
   - program
   - input
   - output
